@@ -1,0 +1,88 @@
+{
+  "contactsArray": [
+    {
+      "id": 1,
+      "nationalIdentification": 34770845006,
+      "birthdate": "1992-03-06T03:00:00.000Z",
+      "firstName": "Emma",
+      "lastName": "Watson",
+      "email": "marcelasilva@gmail.com",
+      "lifeCycle": "Lead",
+      "photoUrl": "https://pm1.narvii.com/6620/0f5d6efeb1cf50b329b713a243f29c9dfba0ec2d_128.jpg"
+    },
+    {
+      "id": 2,
+      "nationalIdentification": 38490010955,
+      "birthdate": "2000-04-11T03:00:00.000Z",
+      "firstName": "Jose",
+      "lastName": "Mario",
+      "email": "mario.jose@gmail.com",
+      "lifeCycle": "Lead",
+      "photoUrl": "https://lh3.googleusercontent.com/proxy/jASA57DTzizw6nUvqhbOtbEw6sTXMioL6_p4w0lAeMoBAo_9vuhAz_VKiTzQl_yTkvHKw1fl_b53WSi_AkWAgYvQHdTELAZLY3QOwGSyN1J1"
+    },
+    {
+      "id": 3,
+      "nationalIdentification": 83232071007,
+      "birthdate": "1989-12-12T03:00:00.000Z",
+      "firstName": "Luiza",
+      "lastName": "Trajano",
+      "email": "trajano.luiza@magalu.com",
+      "lifeCycle": "Lead",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSV6uQBQHLHVcjOGBndkvkVklEQ8b514NEAfA&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "nationalIdentification": 49038095015,
+      "birthdate": "1997-04-01T03:00:00.000Z",
+      "firstName": "Paulo",
+      "lastName": "Rogério",
+      "email": "rogerio.paulo@hotmail.com",
+      "lifeCycle": "Lead",
+      "photoUrl": "https://cdn.fastly.picmonkey.com/contentful/h6goo9gw1hh6/2sNZtFAWOdP1lmQ33VwRN3/24e953b920a9cd0ff2e1d587742a2472/1-intro-photo-final.jpg?w=80&q=70"
+    }
+  ],
+  "federalGovernmentData": [
+    {
+      "nationalIdentification": 38490010955,
+      "birthdate": "2000-04-11T03:00:00.000Z",
+      "firstName": "Jose",
+      "lastName": "Mario",
+      "judicialRecords": [],
+      "score": 56
+    },
+    {
+      "nationalIdentification": 34770845006,
+      "birthdate": "1992-03-06T03:00:00.000Z",
+      "firstName": "Emma",
+      "lastName": "Watson",
+      "judicialRecords": [],
+      "score": 66
+    },
+    {
+      "nationalIdentification": 83232071007,
+      "birthdate": "1989-12-12T03:00:00.000Z",
+      "firstName": "Luiza",
+      "lastName": "Trajano",
+      "judicialRecords": ["Misunderstanding"],
+      "score": 78
+    },
+    {
+      "nationalIdentification": 49038095015,
+      "birthdate": "1997-04-01T03:00:00.000Z",
+      "firstName": "Paulo",
+      "lastName": "Rogério",
+      "judicialRecords": [],
+      "score": 85
+    }
+  ],
+  "lifeCycles": [
+    {
+      "stage": 1,
+      "title": "Lead"
+    },
+    {
+      "stage": 2,
+      "title": "Prospect"
+    }
+  ]
+}
